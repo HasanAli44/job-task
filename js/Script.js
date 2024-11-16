@@ -20,7 +20,7 @@ var swiper = new Swiper(".swipercourses", {
       spaceBetween: 30,
     },
     1024: {
-      slidesPerView: 3,
+      slidesPerView: 3.5,
       spaceBetween: 30,
     },
   },
@@ -47,7 +47,7 @@ var swiper = new Swiper(".swipertestimonial", {
       spaceBetween: 30,
     },
     1024: {
-      slidesPerView: 4,
+      slidesPerView: 5,
       spaceBetween: 30,
     },
   },
